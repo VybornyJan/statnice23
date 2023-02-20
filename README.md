@@ -6,7 +6,8 @@
 
 <p> <h3>POKUD TO NEZVLÁDNEME PŮJDEME K LOPATĚ </h3> </b> </p>
 
-<p>Klidně sem něco přidejte nebo to poupravte- Hlavní je ať máme všechno</b> </p>
+<p>Klidně sem něco přidejte nebo to poupravte. Hlavní je ať máme všechno</b> </p>
+
 
 
 
@@ -19,10 +20,10 @@
 
 
 <p align="center">
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Jm0SEBX"  > <a href="//imgur.com/a/Jm0SEBX">Nothing</a></blockquote>
-</p>
+<img src="https://i.imgur.com/QhXXuLb.gif" alt="a gif" style="width:300px;height:360px;">
+ 
 <p align="center">
-     <b>Nejste v tom sami taky to už nedávám</b>
+<b> Nejste v tom sami taky to už nedávám</b>
 </p>
 
 
