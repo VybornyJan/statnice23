@@ -23,7 +23,7 @@
 <img src="https://i.imgur.com/QhXXuLb.gif" alt="a gif" style="width:300px;height:360px;">
  
 <p align="center">
-<b> Nejste v tom sami, taky to už nedávám.🤪</b>
+<b> Nejste v tom samy, taky to už nedávám.🤪</b>
 </p>
 
 
