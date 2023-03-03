@@ -2,7 +2,7 @@
 <body style="background-color:loightblue;">
 
 
-<h1 align="center">STÁTNIC</h1>
+<h1 align="center">STÁTNICE</h1>
 
 <p> <h3>POKUD TO NEZVLÁDNEME PŮJDEME K LOPATĚ ⛏️ </h3> </b> </p>
 
