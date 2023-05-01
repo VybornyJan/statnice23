@@ -1,35 +1,16 @@
-<html>
-<body style="background-color:loightblue;">
+
+# Rozdělení a rychlý přístup
 
 
-<h1 align="center">STÁTNICE</h1>
-
-<p> <h3>POKUD TO NEZVLÁDNEME PŮJDEME K LOPATĚ ⛏️ </h3> </b> </p>
-
-<p>Klidně sem něco přidejte nebo to poupravte. Hlavní je ať máme všechno.📜</b> </p>
-
-
-
-
+- [Dějiny umění PDF](statnice23/Společná/DUK)
+- [Dějiny umění WORD](statnice23/Společná/DUK-misc)
+- [Filozofie PDF](statnice23/Společná/FIL)
+- [Filozofie WORD](statnice23/Společná/FIL-misc)
+---
+- [Historie Grafiky PDF](statnice23/Oborová/GMD)
+- [Historie Grafiky WORD](statnice23/Společná/GMD-misc)
+- [B aka grafické termíny PDF](statnice23/Oborová/B)
+- [B aka grafické termíny WORD](statnice23/Oborová/B-misc)
  
-
-
  
-
-
-
-
-<p align="center">
-<img src="https://i.imgur.com/QhXXuLb.gif" alt="a gif" style="width:300px;height:360px;">
  
-<p align="center">
-<b> Nejste v tom samy, taky to už nedávám.🤪</b>
-</p>
-
-
-
-
-
-     
-</body>
-</html>
