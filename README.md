@@ -1,16 +1,13 @@
+- Cokoliv co je "misc" je word zbytek je PDF.
 
-# Rozdělení a rychlý přístup
-
-
-- [Dějiny umění PDF](statnice23/Společná/DUK)
-- [Dějiny umění WORD](statnice23/Společná/DUK-misc)
-- [Filozofie PDF](statnice23/Společná/FIL)
-- [Filozofie WORD](statnice23/Společná/FIL-misc)
 ---
-- [Historie Grafiky PDF](statnice23/Oborová/GMD)
-- [Historie Grafiky WORD](statnice23/Společná/GMD-misc)
-- [B aka grafické termíny PDF](statnice23/Oborová/B)
-- [B aka grafické termíny WORD](statnice23/Oborová/B-misc)
- 
- 
+
+- GMD - je historie grafiky (100%)
+- B - jsou ty kecy o grafice aka jak být dobrý grafik a znát pojmy k tomu co děláme. (To co rozdělil Pavel) (10%)
+---
+- Dějiny umění (100%)
+- Filozofie ( je zatím v rozpracování ale podle informací by měla být do 7.5.)
+
+
+
  
