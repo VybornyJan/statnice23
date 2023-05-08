@@ -1,4 +1,4 @@
-- Cokoliv co je "misc" je word zbytek je PDF.
+- Cokoliv co je ve složce s koncem "-misc" je WORD zbytek je PDF.
 
 ---
 
