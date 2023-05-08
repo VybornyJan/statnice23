@@ -6,7 +6,8 @@
 - B - jsou ty kecy o grafice aka jak být dobrý grafik a znát pojmy k tomu co děláme. (To co rozdělil Pavel) (50%)
 ---
 - Dějiny umění (100%)
-- Filozofie ( je zatím v rozpracování ale podle informací by měla být do 7.5.)
+- Filozofie (100%) Děkujeme Aničce ♥
+https://scratched-mall-adf.notion.site/Filosofie-a-estetika-8c3dad9db8cc4c97a0bf1e180e3c682a
 
 
 
