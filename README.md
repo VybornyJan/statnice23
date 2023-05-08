@@ -3,7 +3,7 @@
 ---
 
 - GMD - je historie grafiky (100%)
-- B - jsou ty kecy o grafice aka jak být dobrý grafik a znát pojmy k tomu co děláme. (To co rozdělil Pavel) (50%)
+- B - jsou ty kecy o grafice aka jak být dobrý grafik a znát pojmy k tomu co děláme. (To co rozdělil Pavel) (90%) (Děkujeme Aničce za 23,24.) Čeká se jen na Péťu.
 ---
 - Dějiny umění (100%)
 - Filozofie (100%) Děkujeme Aničce ♥
